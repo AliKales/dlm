@@ -33398,7 +33398,7 @@ o=A.ahq(A.a([o,m,new A.EA(k,p),n,new A.FV(q.gW0(),p,p,p,s,B.y,p,!1,new A.FW(r,B.
 return new A.fh(B.xj,new A.dh(new A.Ro(),new A.Dy(!0,o,p),p,t.wL),p)},
 nN(a,b){var s=null,r=a.T(t.w).f
 return new A.fh(B.aW,new A.zh(B.tH,new A.rw(A.ajK(s,s,new A.qg(b,s,s)),r.a.b/2,s),s),s)},
-W1(){var s=A.a7m("assets/app-release.apk")
+W1(){var s=A.a7m("https://media.githubusercontent.com/media/AliKales/dlm/main/assets/assets/app-release.apk")
 s.download="Download Listen Music"
 s.click()}}
 A.Ro.prototype={
